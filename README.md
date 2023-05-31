@@ -7,7 +7,6 @@ Software Engineer
 * 🌍  I'm based in Istanbul, Turkey
 * 🖥️  For more information see [my Personal Website](http://oguzhantasimaz.com)
 * ✉️  You can contact me at [oguzhantasimaz@gmail.com](mailto:oguzhantasimaz@gmail.com)
-* 🚀  I'm currently working at [Dittofi](http://dittofi.com)
 * ⚡  Amateur Stock Photographer
 
 <a href="https://www.twitter.com/oguztz" target="_blank" rel="noreferrer"><img
