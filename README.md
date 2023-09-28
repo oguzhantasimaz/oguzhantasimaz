@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Istanbul, Turkey
 * 🖥️  For more information see [my Personal Website](http://oguzhantasimaz.com)
 * ✉️  You can contact me at [oguzhantasimaz@gmail.com](mailto:oguzhantasimaz@gmail.com)
-* ⚡  Amateur Photographer
+* 📷  Amateur Photographer
 
 <a href="https://www.twitter.com/oguztz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oguztz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
