@@ -11,7 +11,8 @@ Software Engineer
 
 <a href="https://www.twitter.com/oguztz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/oguztz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+/></a> <a href="https://www.buymeacoffee.com/oguzhantasimaz" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/white_img.png" alt="Buy Me A Coffee" style="height: 29px !important;width: 123px" ></a>
+
 
 ### Socials
 
